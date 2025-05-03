@@ -56,7 +56,7 @@ chrome.webRequest.onBeforeRequest.addListener(
                 //  console.log(`Unmuted tab ${tab.id}`);
                 }
               });
-            }, durationSec * 1000);
+            }, (durationSec * 1000) - 100); // some buffer for next tracking pixel
           }
         }
       }

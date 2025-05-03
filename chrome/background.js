@@ -12,7 +12,6 @@ const targetAdIds = [
   "PR-25-011410_TATAIPL2025_TheWhiteLotus_TWLBinge30sNSEng_English_VCTA_30"
   "PR-25-012377_TATAIPL2025_AndorS2_AndorS2Moment15sEng_English_Takeover_15"
   "PR-25-010281_TATAIPL2025_Aladdin_AladdinNS30SecEng_English_VCTA_30"
-  "PR-25-012373_TATAIPL2025_AndJustLikeThatS3_AndJustLikeThatS3DTD15s_English_Takeover_15"
 ];
 
 const durationRegexes = [
